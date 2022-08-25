@@ -1,0 +1,11 @@
+**/__pycache__/
+**/node_modules/
+*.sqlite3
+build.zip
+.env
+.idea
+.venv
+ui/dist
+art/logs
+art/static
+
