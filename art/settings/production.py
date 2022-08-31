@@ -5,6 +5,7 @@ from .base import *
 
 ALLOWED_HOSTS = [
     '0.0.0.0',
+    'art.pythonanywhere.com'
 ]
 
 GRAPHIQL_AVAILABLE = False

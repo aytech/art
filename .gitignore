@@ -1,7 +1,7 @@
 **/__pycache__/
 **/node_modules/
 *.sqlite3
-build.zip
+art.zip
 .env
 .idea
 .venv
